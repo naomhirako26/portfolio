@@ -1,3 +1,4 @@
+
 # Naomi Hirako — Portfolio
 
 A responsive personal portfolio built with plain HTML, CSS, and JavaScript. No build step or package installation is required.
